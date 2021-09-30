@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+:root {
+
+    --primary-color: #85afd1;
+    --off-white: #E5E7EB;
+}
+
+body {
+
+    font-family: 'Lalezar', cursive;
+    margin: 4px;
+    background-color: var(--primary-color);
+
+}
